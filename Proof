@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am damioncryptoking on github.
+  * I am damioncryptoking (https://keybase.io/damioncryptoking) on keybase.
+  * I have a public key ASByDHy6cF7EVOdVSAVDK1j362I5xMxZvVfliqLfwGTUUwo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120720c7cba705ec454e7554805432b58f7eb6239c4cc59bd57e58aa2dfc064d4530a",
+      "host": "keybase.io",
+      "kid": "0120720c7cba705ec454e7554805432b58f7eb6239c4cc59bd57e58aa2dfc064d4530a",
+      "uid": "b86e2ae88f00fcd4f529c8ea6a062a19",
+      "username": "damioncryptoking"
+    },
+    "merkle_root": {
+      "ctime": 1568169733,
+      "hash": "85745822340969e146271f94f62e33829a7af08fc4e47b350c5526f1affb03feda285b93bda72d4d15cfa4b92f1189425f5f44b0d982d66058bfdc6388ea7d28",
+      "hash_meta": "7f02faee6d6925ceafcbb3a4d162910e297ddd935233d26180ae6ce687650187",
+      "seqno": 6568391
+    },
+    "service": {
+      "entropy": "2lb99rjvzNH+5bLbpDhTHHLt",
+      "name": "github",
+      "username": "damioncryptoking"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568169755,
+  "expire_in": 504576000,
+  "prev": "18065a94c482856e991809af8fe4bae27213e562e1f81ea082204ac6cbe100b8",
+  "seqno": 9,
+  "tag": "signature"
+}
+```
+
+with the key [ASByDHy6cF7EVOdVSAVDK1j362I5xMxZvVfliqLfwGTUUwo](https://keybase.io/damioncryptoking), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgcgx8unBexFTnVUgFQytY9+tiOcTMWb1X5Yqi38Bk1FMKp3BheWxvYWTESpcCCcQgGAZalMSChW6ZGAmvj+S64nIT5WLh+B6ggiBKxsvhALjEIE+srWni3VKNIfnJE1QC/ENFU9pGP9gai6kQ4/sdOeACAgHCo3NpZ8RAeqLMxfDFo4U7bbvQ5Op+GrgG8asmS98pgxdx2IDzBnbuuzrM5Z6+UF//rdNMegGlB2A3itGJbpdxrUrgCdx7A6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIpN99Wcjgl5Q/Uu+i6KTzvB0+fhHTqMtj+P7vxoOAGTo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/damioncryptoking
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id damioncryptoking
+```
